@@ -7,6 +7,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="frege-3.21.500" level="application" />
+    <orderEntry type="library" name="org.frege-lang:frege-repl-core:1.3" level="application" />
+    <orderEntry type="library" name="org.frege-lang:frege-repl-nativedeps:1.3" level="application" />
+    <orderEntry type="library" name="org.frege-lang:frege:3.23.422-ga05a487" level="application" />
+    <orderEntry type="library" name="org.frege-lang:frege-script-engine:1.1.1" level="application" />
   </component>
 </module>
